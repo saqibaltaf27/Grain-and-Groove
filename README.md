@@ -119,7 +119,7 @@ Total Cost = Labor Cost + Material Cost
 ## 1. Clone the Repository
 
 
-git clone https://github.com/yourusername/grain-groove-estimator.git
+git clone https://github.com/saqibaltaf27/Grain-and-Groove.git
 
 cd grain-groove-estimator
 
@@ -298,3 +298,7 @@ Three screenshots demonstrating different configurations should be included:
 1. Oak + Standard Stain
 2. Cherry + High-Gloss Lacquer
 3. Walnut + Natural Oil
+
+## Deployment
+1. Github (https://github.com/saqibaltaf27/Grain-and-Groove.git)
+2. Vercel ()
