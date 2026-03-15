@@ -1,0 +1,37 @@
+.App {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.cabinet-form input, .cabinet-form select {
+    display: block;
+    width: 100%;
+    margin: 10px 0;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.cabinet-form button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.result-card {
+    margin-top: 20px;
+    padding: 15px;
+    border: 1px silid #ccc;
+    background: #f9f9f9;
+}
+
+.error {
+    color: red;
+    margin-top: 10px;
+}
+/*  */
