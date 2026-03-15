@@ -1,0 +1,18 @@
+{
+    "woodSpecies": {
+        "Oak": 1,
+        "Maple": 1.10,
+        "Cherry": 1.15,
+        "Walnut": 1.25
+    },
+
+    "finishTypes": {
+        "Standard Stain": 1,
+        "High-Gloss Lacquer": 1.2,
+        "Natural Oil": 1.1
+    },
+
+    "baseLaborRate": 5,
+    "materialCoverageRate": 50,
+    "materialCostPerUnit": 10
+}
